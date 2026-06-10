@@ -1,6 +1,6 @@
 #ifndef TBEEPER_H
 #define TBEEPER_H
-  #include "Arduino.h"
+  #include <Arduino.h>
   #include <TSoftwareVersion.h>
     #define TBEEPER_V_MAJOR 1
     #define TBEEPER_V_MINOR 1
